@@ -1,5 +1,5 @@
 {
-  "name": "jennifer/steein-auth2-laravel",
+  "name": "jennifer/steein-oauth2-laravel",
   "description": "Steein OAuth2 Provider for Laravel Socialite",
   "keywords": ["steein", "authorization", "login", "auth", "socialite"],
   "license": "MIT",
